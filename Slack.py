@@ -26,34 +26,8 @@ channel_id = "Channelid" #careem channel
 
 # Set the reaction emoji
 username = input("Please enter your username: ")
-if username == "m.zeeshan@ext.careem.com":
-    reaction_emoji = "zeeshan"
-elif username == "maryam.shafique@ext.careem.com":
-    reaction_emoji = "maryam"
-elif username == "muhammad.abubakar2@ext.careem.com":
-    reaction_emoji = "abubakr"
-elif username == "mujtaba.rehman@ext.careem.com":
-    reaction_emoji = "mujtaba"
-elif username == "humna.bashir@ext.careem.com":
-    reaction_emoji = "humna"
-elif username == "abdur.rashid@ext.careem.com":
-    reaction_emoji = "abdur_rashid"
-elif username == "haroon.rasheed@ext.careem.com":
-    reaction_emoji = "haroon"
-elif username == "shehrbano.lakhanie@ext.careem.com":
-    reaction_emoji = "shehrbano"
-elif username == "saifullah.khan@ext.careem.com":
-    reaction_emoji = "saif"
-elif username == "salman.ali@ext.careem.com":
-    reaction_emoji = "salman"
-elif username == "hamza.saeed@ext.careem.com":
-    reaction_emoji = "hamzasaeed"
-elif username == "rana.talha@ext.careem.com":
-    reaction_emoji = "talhagts"
-elif username == "muhammad.faraz@ext.careem.com":
-    reaction_emoji = "faraz"
-elif username == "usama.ashfaq@ext.careem.com":
-    reaction_emoji = "usama_mssp-soc"
+if:
+ #code
 else:
     reaction_emoji = "👋"
 
