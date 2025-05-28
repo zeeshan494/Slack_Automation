@@ -18,7 +18,7 @@ client = WebClient(token=os.getenv('API'))
 
 
 # API key for abuse IPdb
-api_key = "811f20f61b2f71a30eb3205332868856b5dceef517acb8f243fa310df92936b7725a71a1ec5e6475"
+api_key = "apikey"
 
 # Set the desired channel ID
 channel_id = "Channelid" #careem channel
